@@ -150,6 +150,11 @@
 
 ```
 
+通过浏览器访问页面，劫持前后对比效果如图：
+
+![img](/img/hijack.png)
+
+
 #### 三、参考资料
 
 * [anyproxy](https://github.com/alibaba/anyproxy)
